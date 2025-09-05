@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "agentic-mvp-shared"
 version = "0.1.0"
-description = "Shared utilities for our project (created by Bob, edited by RandomCyberCoder)."
+description = "Shared utilities for our project (created by yuki011121, edited by RandomCyberCoder)."
 authors = ["yuki011121", "RandomCyberCoder"]
 license = "MIT"
 readme = "AUTHORS.md"

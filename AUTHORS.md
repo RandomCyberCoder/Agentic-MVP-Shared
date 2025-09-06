@@ -7,6 +7,6 @@ This package was created by and for:
 
 - **yuki011121**
 - **RandomCyberCoder**
-- **All members if IntelliSAR**
+- **All members of IntelliSAR**
 
 Special thanks to all contributors and supporters of the Agentic-MVP-Shared project.
